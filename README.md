@@ -58,7 +58,10 @@ This frontend communicates with the Spring Boot backend through REST APIs and pr
 🚀 Getting Started
 Clone Repository
 git clone https://github.com/shekharvaibhav6/EcomApp-Frontend
+
+
 Navigate to Project
+
 cd EcommerceApp-Frontend
 Install Dependencies
 npm install
