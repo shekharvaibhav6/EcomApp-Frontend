@@ -85,13 +85,12 @@ Product Search
 Product Information
 Pricing
 Add to Cart
+
 🛒 Cart Page
 View Cart Items
 Update Quantity
 Remove Products
-🔐 Authentication
-Login Page
-Registration Page
+
 📦 Orders
 Order Summary
 Order History
@@ -107,24 +106,7 @@ Spring Boot Backend
 MySQL Database
       ↓
 Response Returned
-      ↓
-UI Updated
-📸 Screenshots
-Home Page
 
-(Add Screenshot)
-
-Product Page
-
-(Add Screenshot)
-
-Cart Page
-
-(Add Screenshot)
-
-Login Page
-
-(Add Screenshot)
 
 🚀 Future Enhancements
 Razorpay Integration
