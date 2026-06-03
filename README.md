@@ -8,13 +8,6 @@ This frontend communicates with the Spring Boot backend through REST APIs and pr
 
 ## ✨ Features
 
-### 👤 Authentication
-- User Registration
-- User Login
-- JWT-based Authentication
-- Protected Routes
-- Persistent Login Sessions
-
 ### 🛍️ Shopping Experience
 - Browse Products
 - Product Details Page
